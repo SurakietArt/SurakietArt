@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Surakiet (Art)
+- 👀 I’m interested in web developer.
+- 🌱 I’m currently learning Django framework.
+- 📫 How to reach me [surakiet.p@gmail.com]
